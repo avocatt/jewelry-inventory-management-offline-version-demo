@@ -3,7 +3,7 @@
 
 ---
 
-![SilverStream Ana Panel](docs/screenshots/dashboard.png)
+![SilverStream Ana Panel](screenshots/dashboard.png)
 *SilverStream'in kullanıcı dostu ana paneli*
 
 ### Basit, Güçlü ve Her Zaman Erişilebilir.
@@ -22,13 +22,13 @@ SilverStream, günlük operasyonlarınızı basitleştirmek ve size gönül raha
 - **Özel Alanlar:** Her parçanın benzersiz özünü yakalamak için ayar, taş cinsi, usta adı gibi ihtiyacınız olan her türlü detayı ekleyin.
 - **Net Organizasyon:** Kolay filtreleme, arama ve raporlama için ürünlerinizi kategorilere ayırın.
 
-![Envanter Yönetimi](docs/screenshots/inventory-page.png)
+![Envanter Yönetimi](screenshots/inventory-page.png)
 *Kapsamlı envanter listesi ve filtreleme seçenekleri*
 
-![Ürün Ekleme](docs/screenshots/additemform-1.png)
+![Ürün Ekleme](screenshots/additemform-1.png)
 *Kolay ürün ekleme formu - hibrit envanter modeli*
 
-![Ürün Detayları](docs/screenshots/itemdetailsmodaldetails.png)
+![Ürün Detayları](screenshots/itemdetailsmodaldetails.png)
 *Detaylı ürün bilgileri ve özel alanlar*
 
 ### ║█║▌║█║ Profesyonel Barkod Sistemi
@@ -37,10 +37,10 @@ Etiketleri elle yazmayı bırakın ve iş akışınızı modernleştirin. Doğru
 - **Anında Yazdırma:** Yeni ürünler için tek tek veya tüm koleksiyonunuz için yüzlerce etiketi toplu olarak yazdırın.
 - **Standart Yazıcılarla Uyumlu:** Yaygın olarak kullanılan termal etiket yazıcıları ile uyumludur.
 
-![Barkod Tasarımcısı](docs/screenshots/barcodedesigneditor.png)
+![Barkod Tasarımcısı](screenshots/barcodedesigneditor.png)
 *Güçlü sürükle-bırak etiket tasarımcısı*
 
-![Toplu Barkod Üretimi](docs/screenshots/batchbarcodegenerator.png)
+![Toplu Barkod Üretimi](screenshots/batchbarcodegenerator.png)
 *Toplu barkod üretimi ve yazdırma özelliği*
 
 ### 💰 "Cari Hesap" ile Finansal Takip
@@ -49,10 +49,10 @@ Türkiye pazarının vazgeçilmezi olan **"Cari Hesap"** özelliği ile kimden a
 - **İşlem Geçmişi:** Ödemeleri kaydedin, yeni borçlar ekleyin ve her hesap için tam bir geçmişle düzeltmeler yapın.
 - **Bir Bakışta Bakiyeler:** Her müşteri ve tedarikçinin finansal durumunu anında görün.
 
-![Cari Hesap Yönetimi](docs/screenshots/currentaccountspage.png)
+![Cari Hesap Yönetimi](screenshots/currentaccountspage.png)
 *Müşteri ve tedarikçi cari hesap takibi*
 
-![Cari Hesap Detayları](docs/screenshots/specificcurrentaccounthistory.png)
+![Cari Hesap Detayları](screenshots/specificcurrentaccounthistory.png)
 *Detaylı cari hesap geçmişi ve işlem takibi*
 
 ### 🔧 Tamirat Yönetimini Baştan Sona Kontrol Edin
@@ -61,13 +61,13 @@ Profesyonel bir tamirat hizmeti sunun ve her işi kolaylıkla takip edin.
 - **Durum Takibi:** "Beklemede" durumundan "Teslim Edildi" durumuna kadar her işin ilerlemesini takip edin.
 - **Sorunsuz Teslimat:** Nihai ödemeleri alın ve işleri teslim edildi olarak işaretleyin; bu işlem, kayıtlarınız için otomatik olarak bir satış işlemi oluşturur.
 
-![Tamirat Kaydı](docs/screenshots/repairintake.png)
+![Tamirat Kaydı](screenshots/repairintake.png)
 *Yeni tamirat işi kayıt formu*
 
-![Aktif Tamiratlar](docs/screenshots/repairmanagementactiverepairs.png)
+![Aktif Tamiratlar](screenshots/repairmanagementactiverepairs.png)
 *Aktif tamirat işleri ve durum takibi*
 
-![Tamirat Teslimi](docs/screenshots/repairpickup.png)
+![Tamirat Teslimi](screenshots/repairpickup.png)
 *Tamirat teslim alma ekranı*
 
 ### 🚫 Tamamen Çevrimdışı Çalışır
@@ -87,16 +87,16 @@ Karmaşık e-tablolarda kaybolmadan işletmenizin performansını anlayın.
 - **Tamirat Geliri:** Tamirat hizmetlerinizin ne kadar gelir getirdiğini tam olarak bilin.
 - **Satılan Ürünler Listesi:** Belirli bir dönemde satılan tüm ürünleri hızla gözden geçirin.
 
-![Raporlama Sistemi](docs/screenshots/reportspage.png)
+![Raporlama Sistemi](screenshots/reportspage.png)
 *Kapsamlı satış ve kâr raporları*
 
-![İşlem Detayları](docs/screenshots/transactiondetails1.png)
+![İşlem Detayları](screenshots/transactiondetails1.png)
 *Detaylı işlem görüntüleme ve düzenleme*
 
-![Tedarikçi Yönetimi](docs/screenshots/supplierspage.png)
+![Tedarikçi Yönetimi](screenshots/supplierspage.png)
 *Tedarikçi kayıtları ve stok takibi*
 
-![Ayarlar](docs/screenshots/settings1.png)
+![Ayarlar](screenshots/settings1.png)
 *Kapsamlı ayarlar ve konfigürasyon seçenekleri*
 
 ---
@@ -108,19 +108,19 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### 📦 Envanter Yönetimi Detayları
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![Envanter Filtreleme](docs/screenshots/inventory-page-filters.png)
+![Envanter Filtreleme](screenshots/inventory-page-filters.png)
 *Gelişmiş filtreleme ve arama seçenekleri*
 
-![Ürün Ekleme Formu 2](docs/screenshots/additemform-2.png)
+![Ürün Ekleme Formu 2](screenshots/additemform-2.png)
 *Ürün ekleme formunun ikinci sayfası*
 
-![Toplu Ürün Ekleme](docs/screenshots/batchadditemform.png)
+![Toplu Ürün Ekleme](screenshots/batchadditemform.png)
 *Toplu ürün ekleme özelliği*
 
-![Ürün Müşteri Bilgileri](docs/screenshots/itemdetailsmodalcustomer.png)
+![Ürün Müşteri Bilgileri](screenshots/itemdetailsmodalcustomer.png)
 *Ürün müşteri bilgileri ve satış geçmişi*
 
-![Ürün Düzenleme](docs/screenshots/itemdetailsmodaledit.png)
+![Ürün Düzenleme](screenshots/itemdetailsmodaledit.png)
 *Ürün bilgilerini düzenleme modalı*
 
 </div>
@@ -128,7 +128,7 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### 🏷️ Barkod ve Etiket Yönetimi
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![Çoklu Barkod Üretimi](docs/screenshots/multibarcodegenerator.png)
+![Çoklu Barkod Üretimi](screenshots/multibarcodegenerator.png)
 *Çoklu barkod üretim arayüzü*
 
 </div>
@@ -136,10 +136,10 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### 🔧 Tamirat Yönetimi Detayları
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![Müşteri Tamirat Geçmişi](docs/screenshots/repairmanagementcustomerhistory.png)
+![Müşteri Tamirat Geçmişi](screenshots/repairmanagementcustomerhistory.png)
 *Müşteri bazında tamirat geçmişi*
 
-![Belirli Müşteri Tamirat Detayları](docs/screenshots/repairmanagementspecificcustomerhistory.png)
+![Belirli Müşteri Tamirat Detayları](screenshots/repairmanagementspecificcustomerhistory.png)
 *Seçili müşterinin detaylı tamirat geçmişi*
 
 </div>
@@ -147,13 +147,13 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### 💰 İşlem ve Finansal Yönetim
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![İşlemler Sayfası](docs/screenshots/transactionspage.png)
+![İşlemler Sayfası](screenshots/transactionspage.png)
 *Tüm işlemlerin listesi ve filtreleme*
 
-![İşlem Detayları 2](docs/screenshots/transactiondetails2.png)
+![İşlem Detayları 2](screenshots/transactiondetails2.png)
 *İşlem detayları - ikinci görünüm*
 
-![İşlem Detayları 3](docs/screenshots/transactiondetails3.png)
+![İşlem Detayları 3](screenshots/transactiondetails3.png)
 *İşlem detayları - üçüncü görünüm*
 
 </div>
@@ -161,7 +161,7 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### 🏪 Tedarikçi Yönetimi
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![Tedarikçi Formu](docs/screenshots/suppliersform.png)
+![Tedarikçi Formu](screenshots/suppliersform.png)
 *Yeni tedarikçi ekleme formu*
 
 </div>
@@ -169,19 +169,19 @@ SilverStream'in tüm özelliklerini daha yakından görmek için aşağıdaki ek
 ### ⚙️ Ayarlar ve Konfigürasyon
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-![Ayarlar 2](docs/screenshots/settings2.png)
+![Ayarlar 2](screenshots/settings2.png)
 *Genel ayarlar sekmesi*
 
-![Ayarlar 3](docs/screenshots/settings3.png)
+![Ayarlar 3](screenshots/settings3.png)
 *Barkod ve yazdırma ayarları*
 
-![Ayarlar 4](docs/screenshots/settings4.png)
+![Ayarlar 4](screenshots/settings4.png)
 *Veritabanı ve yedekleme ayarları*
 
-![Ayarlar 5](docs/screenshots/settings5.png)
+![Ayarlar 5](screenshots/settings5.png)
 *Gelişmiş konfigürasyon seçenekleri*
 
-![Gizli Dashboard](docs/screenshots/dashboard-hidden.png)
+![Gizli Dashboard](screenshots/dashboard-hidden.png)
 *Dashboard'un gizlenmiş bilgiler görünümü*
 
 </div>
