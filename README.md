@@ -216,9 +216,3 @@ Başlamak çok kolay. Karmaşık kurulum veya komut satırlarına gerek yok.
 Bu, ticari bir yazılımdır. Kullanımı, uygulama ile birlikte gelen Son Kullanıcı Lisans Sözleşmesi (EULA) tarafından yönetilmektedir.
 <br>
 *Copyright © 2024 Emre Terzi. Tüm hakları saklıdır.*
-
-#### Destek
-Bir sorunuz mu var veya yardıma mı ihtiyacınız var?
--   **Hata Bildir:** [Yeni bir "Issue" açın](https://github.com/avocatt/Jewelry-inventory-management-offline-conversed/issues)
--   **Özellik Öner:** [Bir "Discussion" başlatın](https://github.com/avocatt/Jewelry-inventory-management-offline-conversed/discussions)
--   **Destek ile İletişime Geçin:** [support@example.com](mailto:support@example.com) *(örnek e-posta)*
